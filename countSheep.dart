@@ -3,7 +3,6 @@ void main() {
     var sheeps = " sheep...";
     var x = numb.toString();
     for(var i = numb; i > 0; i++){
-      
     }
     
     var sleep = x + sheeps;
